@@ -1,0 +1,4 @@
+
+Use this folder to store screenshots. Files should be named by date and purpose using the following format: 20230712 for July 12, 2023 along with the word or two about what is being shown. For example 20230712-DataConnection.
+
+
