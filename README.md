@@ -11,6 +11,12 @@ actually work will be located in the pbix folder. Thanks for reading!
 
 Initial data model
 
+Reference: Power BI Cookbook
+https://github.com/PacktPublishing/Microsoft-Power-BI-Cookbook-Second-Edition
+
+Make local copy of recipes for reference
+
+
 20230718
 
 Identifying project goals to include generic workflow for ingesting I&M
