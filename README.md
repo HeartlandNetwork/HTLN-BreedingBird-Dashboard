@@ -7,6 +7,10 @@ actually work will be located in the pbix folder. Thanks for reading!
 
 # Notes
 
+20230720
+
+Initial data model
+
 20230718
 
 Identifying project goals to include generic workflow for ingesting I&M
