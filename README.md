@@ -1,13 +1,16 @@
 # HTLN-BreedingBird-Dashboard
 
-Experimenting with Power Bi features using SQL Server instance of HTLN_Landbirds. Initial work is based on Deckler and Powell (2021) MS Power BI Cookbook. Packt 
-Publishing, Birmingham - Mumbai. Later stuff will be extending these recipes to 
-develop a comprehensive dashboard for HTLN breeding bird monitoring program.
+Developing a generic workflow for visualizing breeding bird data package. Goals include a generic ETL script written in R that will also ingest EML metadata.
 
 The folder 'src' is my dumping ground for code and visuals. .pbix files that
 actually work will be located in the pbix folder. Thanks for reading!
 
 # Notes
+
+20230718
+
+Identifying project goals to include generic workflow for ingesting I&M
+data packages and EML metadata.
 
 20230712
 
