@@ -10,13 +10,7 @@ actually work will be located in the pbix folder. Thanks for reading!
 
 20230720
 
-Initial data model
-
-Reference: Power BI Cookbook
-https://github.com/PacktPublishing/Microsoft-Power-BI-Cookbook-Second-Edition
-
-Make local copy of recipes for reference
-
+Initial data model in R
 
 20230718
 
