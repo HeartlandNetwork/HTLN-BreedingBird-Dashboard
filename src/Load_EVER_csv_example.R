@@ -6,8 +6,6 @@ library(tidyverse)
 
 
 
-
-
 AA_Plots <- read_csv("src/EVER_example/AA_Plots.csv")
 AA_Vegetation <- read_csv("src/EVER_example/AA_VegetationDetail.csv")
 
