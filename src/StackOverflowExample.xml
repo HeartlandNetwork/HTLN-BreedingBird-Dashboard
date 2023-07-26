@@ -1,0 +1,27 @@
+
+<attr>  
+     <attrlabl>COUNTY</attrlabl>  
+     <attrdef>County abbreviation</attrdef>  
+     <attrtype>Text</attrtype>  
+     <attwidth>1</attwidth>  
+     <atnumdec>0</atnumdec>  
+    <attrdomv>  
+        <edom>  
+            <edomv>C</edomv>  
+            <edomvd>Clackamas County</edomvd>  
+            <edomvds/>  
+         </edom>  
+        <edom>  
+            <edomv>M</edomv>  
+            <edomvd>Multnomah County</edomvd>  
+            <edomvds/>  
+         </edom>  
+        <edom>  
+            <edomv>W</edomv>  
+            <edomvd>Washington County</edomvd>  
+            <edomvds/>  
+         </edom>  
+     </attrdomv>  
+ </attr>
+ 
+ 
