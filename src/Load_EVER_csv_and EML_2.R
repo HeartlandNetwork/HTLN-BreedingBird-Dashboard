@@ -16,18 +16,14 @@ AA_Vegetation <- read_csv("AA_VegetationDetail.csv")
 
 my_eml <- read_eml("EVER_AA_metadata.xml")
 
+my_eml$dataset$title
+my_eml$dataset$creator$individualName$givenName
+my_eml$dataset$creator$individualName$surName
+
+
+
 # https://www.rdocumentation.org/packages/emld/versions/0.5.1
 
-# exploring the eml
-
-# typeof(my_eml)
-
-# class(my_eml)
-
-my_eml$dataset$title
-my_eml$dataset$creator
-my_eml$dataset$pubDate
-my_eml$dataset$abstract
 
 eml_vector <- c(my_eml$dataset$title, my_eml$dataset$creator, 
                 my_eml$dataset$pubDate, my_eml$dataset$abstract)
@@ -36,6 +32,11 @@ eml_df  <- data.frame(eml_vector)
 
 # the dataframes AA_Plots, AA_Vegetation, and eml_df are visible as tables
 # in Power BI
+
+view(eml_df)
+
+
+
 
 
 
