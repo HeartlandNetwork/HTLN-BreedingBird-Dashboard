@@ -8,6 +8,13 @@ actually work will be located in the pbix folder. Thanks for reading!
 
 # Notes
 
+20230728
+
+Visualizers - try out something in ggplot
+
+Script is loading csvs and EML into Power BI
+Power BI reads pretty much anything in a dataframe
+
 20230720
 
 Initial data model in R
