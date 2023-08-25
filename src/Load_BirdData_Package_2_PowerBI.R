@@ -28,10 +28,9 @@ firstname <- c(my_eml$dataset$creator$individualName$givenName)
 firstname
 lastname <- c(my_eml$dataset$creator$individualName$surName)
 lastname
-pubdate <- c(my_eml$dataset$pubDate)
-pubDate
 
 abstract <- c(my_eml$dataset$abstract$para)
+abstract
 
 eml_df <- data.frame(title, firstname, lastname, pubdate, abstract)
 
